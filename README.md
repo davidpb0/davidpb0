@@ -4,6 +4,7 @@
 
 
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=davidpb0&show_icons=true&theme=dracula&hide=contribs&count_private=true)
+<b>
 ![visitors](https://pageview.vercel.app/?github_user=davidpb0)
 <!--
 **davidpb001/davidpb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
