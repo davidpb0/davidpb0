@@ -2,6 +2,10 @@
 
 <a href="https://www.linkedin.com/in/david-p%C3%A9rez-barroso-192824239/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="David's LinkedIn"/></a>
 
+![](https://github-readme-stats.vercel.app/api?username=davidpb0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=davidpb0&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpb0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![visitors](https://pageview.vercel.app/?github_user=davidpb0)
 <!--
 **davidpb001/davidpb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
