@@ -1,6 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hello there👋, I'm David <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<a href="https://www.linkedin.com/in/david-p%C3%A9rez-barroso-192824239/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="David's LinkedIn"/></a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -16,14 +15,29 @@
 </p>
 
 
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<p align= "center">
+  <img height= "200" src="https://github-readme-stats.vercel.app/api?username=davidpb0&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img height= "200" src="https://github-readme-streak-stats.herokuapp.com/?user=davidpb0&layout=compact&theme=gotham"/>
+</p>
 
+<h3 align=center> 🤝🏻 &nbsp;Connect with Me </h3> 
 
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/david-p%C3%A9rez-barroso-192824239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:david.peba123@gmail.com?subject=Hola"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=davidpb0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=davidpb0&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpb0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align=center> ✍️Random Dev Quote </h3> 
 
-![visitors](https://pageview.vercel.app/?github_user=davidpb0)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="quotes">
+</p>
+
+<p align="center">
+  <img src="https://pageview.vercel.app/?github_user=davidpb0" alt="visitors">
+</p>
 <!--
 **davidpb001/davidpb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
