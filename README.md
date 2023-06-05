@@ -17,8 +17,8 @@
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <p align= "center">
-  <img height= "200" src="https://github-readme-stats.vercel.app/api?username=davidpb0&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img height= "200" src="https://github-readme-streak-stats.herokuapp.com/?user=davidpb0&layout=compact&theme=gotham"/>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=davidpb0&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=davidpb0&layout=compact&theme=gotham"/>
 </p>
 
 <h3 align=center> 🤝🏻 &nbsp;Connect with Me </h3> 
