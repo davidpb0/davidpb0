@@ -10,7 +10,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,html,css,javascript,ruby,git,github,gitlab,androidstudio,idea,eclipse,cmake,flutter,kotlin,linux,mysql,postgres,sqlite,powershell,qt,arduino,nodejs,postman,react,vue,stackoverflow,=20" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,html,css,javascript,ruby,git,github,gitlab,androidstudio,idea,eclipse,cmake,flutter,kotlin,linux,mysql,postgres,sqlite,powershell,aws,arduino,nodejs,postman,react,vue,stackoverflow,=20" />
   </a>
 </p>
 
